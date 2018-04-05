@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="a594e21b-009f-4dd0-bacf-44ce8eff9ba0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/build/build.xml" afterPath="$PROJECT_DIR$/build/build.xml" />
+      <change beforePath="$PROJECT_DIR$/devTools/installer/SPEC/installer.nsi" afterPath="$PROJECT_DIR$/devTools/installer/SPEC/installer.nsi" />
+      <change beforePath="$PROJECT_DIR$/devTools/installer/SPEC/main.nsi" afterPath="$PROJECT_DIR$/devTools/installer/SPEC/main.nsi" />
+      <change beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
+      <change beforePath="$PROJECT_DIR$/installer/ApplicationSetupUtility.php" afterPath="$PROJECT_DIR$/installer/ApplicationSetupUtility.php" />
+      <change beforePath="$PROJECT_DIR$/installer/guide/index.html" afterPath="$PROJECT_DIR$/installer/guide/index.html" />
+      <change beforePath="$PROJECT_DIR$/installer/registrationMessage.php" afterPath="$PROJECT_DIR$/installer/registrationMessage.php" />
+      <change beforePath="$PROJECT_DIR$/installer/welcome.php" afterPath="$PROJECT_DIR$/installer/welcome.php" />
+      <change beforePath="$PROJECT_DIR$/lib/confs/Conf.php-distribution" afterPath="$PROJECT_DIR$/lib/confs/Conf.php-distribution" />
+      <change beforePath="$PROJECT_DIR$/orangehrm-quick-start-guide.html" afterPath="$PROJECT_DIR$/orangehrm-quick-start-guide.html" />
+      <change beforePath="$PROJECT_DIR$/symfony/apps/orangehrm/templates/_copyright.php" afterPath="$PROJECT_DIR$/symfony/apps/orangehrm/templates/_copyright.php" />
+      <change beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmBeaconPlugin/modules/communication/actions/beaconAboutComponent.class.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmBeaconPlugin/modules/communication/actions/beaconAboutComponent.class.php" />
+      <change beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/actions/addCandidateAction.class.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/actions/addCandidateAction.class.php" />
+      <change beforePath="$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/templates/addCandidateSuccess.php" afterPath="$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/templates/addCandidateSuccess.php" />
+      <change beforePath="$PROJECT_DIR$/sysinfo.php" afterPath="$PROJECT_DIR$/sysinfo.php" />
+    </list>
+    <ignored path="orangehrmOpenSource.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="orangehrmOpenSource" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Indicators.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/lib/model/doctrine/orangehrmIndicatorsKpiPlugin/Indicators.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndicatorsTable.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/lib/model/doctrine/orangehrmIndicatorsKpiPlugin/IndicatorsTable.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndicatorDao.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/dao/IndicatorDao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="99" column="2" lean-forward="false" selection-start-line="99" selection-start-column="2" selection-end-line="99" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indicatorsForm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/form/indicatorsForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="125" column="1" lean-forward="false" selection-start-line="125" selection-start-column="1" selection-end-line="125" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PluginIndicators.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/model/doctrine/PluginIndicators.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PluginIndicatorsTable.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/model/doctrine/PluginIndicatorsTable.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndicatorService.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/service/IndicatorService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="52" column="2" lean-forward="false" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indicatorsAction.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/modules/indicators/actions/indicatorsAction.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indicatorsSuccess.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/modules/indicators/templates/indicatorsSuccess.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="146" column="12" lean-forward="false" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkIndicatorNameExistenceAction.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/modules/indicators/actions/checkIndicatorNameExistenceAction.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <folding>
+                <element signature="e#6#86#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmAttendancePlugin/modules/attendance/actions/punchInAction.class.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmAttendancePlugin/modules/attendance/actions/punchOutAction.class.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/templates/addCandidateSuccess.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/actions/addCandidateAction.class.php" />
+        <option value="$PROJECT_DIR$/symfony/apps/orangehrm/config/settings.yml" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/ModuleForm.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/viewModulesSuccess.php" />
+        <option value="$PROJECT_DIR$/symfony/lib/model/doctrine/orangehrmIndicatorsKpiPlugin/base/BaseIndicators.class.php" />
+        <option value="$PROJECT_DIR$/symfony/lib/model/doctrine/orangehrmIndicatorsKpiPlugin/Indicators.class.php" />
+        <option value="$PROJECT_DIR$/symfony/lib/model/doctrine/orangehrmIndicatorsKpiPlugin/IndicatorsTable.class.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/dao/IndicatorDao.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/form/indicatorsForm.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/model/doctrine/PluginIndicators.class.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/model/doctrine/PluginIndicatorsTable.class.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/service/IndicatorService.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/modules/indicators/actions/indicatorsAction.class.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/modules/indicators/actions/checkIndicatorNameExistenceAction.class.php" />
+        <option value="$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/modules/indicators/templates/indicatorsSuccess.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="doctrine" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="doctrine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsKpiPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="doctrine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsKpiPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="base" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="doctrine" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="service" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="indicators" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="indicators" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="actions" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="orangehrmIndicatorsPlugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="indicators" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="orangehrm-3.3.3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orangehrm-3.3.3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="orangehrm.lo&#9;FILE&#9;file:///var/www/orangehrmOpenSource/symfony/log/orangehrm.log&#10;addCandidateSu&#9;FILE&#9;file:///var/www/orangehrmOpenSource/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/templates/addCandidateSuccess.php&#10;addCandidate&#9;null&#9;null&#10;punchOutAction&#9;null&#9;null&#10;symfony/plugins/orangehrmAttendancePlugin/modules/attendance/actions/punchInAction.class.php&#9;FILE&#9;file:///var/www/orangehrmOpenSource/symfony/plugins/orangehrmAttendancePlugin/modules/attendance/actions/punchInAction.class.php&#10;messages.&#9;FILE&#9;file:///var/www/orangehrmOpenSource/symfony/apps/orangehrm/i18n/messages.bg_BG.xml" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\ASUS\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a594e21b-009f-4dd0-bacf-44ce8eff9ba0" name="Default" comment="" />
+      <created>1462268143966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1462268143966</updated>
+      <workItem from="1462268145153" duration="1390000" />
+      <workItem from="1522926665822" duration="3202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4592000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24205749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/actions/addCandidateAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/templates/addCandidateSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="136" column="74" lean-forward="false" selection-start-line="136" selection-start-column="74" selection-end-line="136" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/log/orangehrm.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/lib/form/AddCandidateForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9959">
+          <caret line="433" column="31" lean-forward="false" selection-start-line="433" selection-start-column="20" selection-end-line="433" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/actions/addCandidateAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/templates/addCandidateSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="136" column="74" lean-forward="false" selection-start-line="136" selection-start-column="74" selection-end-line="136" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/lib/form/AddCandidateForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="337" column="50" lean-forward="false" selection-start-line="337" selection-start-column="35" selection-end-line="337" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/config/supported_languages.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.bg_BG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAttendancePlugin/modules/attendance/actions/punchInAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="165" column="21" lean-forward="false" selection-start-line="165" selection-start-column="21" selection-end-line="165" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAttendancePlugin/modules/attendance/actions/punchOutAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/config/supported_languages.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/i18n/messages.bg_BG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAttendancePlugin/modules/attendance/actions/punchOutAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAttendancePlugin/modules/attendance/actions/punchInAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="165" column="21" lean-forward="false" selection-start-line="165" selection-start-column="21" selection-end-line="165" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/lib/model/doctrine/orangehrmRecruitmentPlugin/base/BaseJobCandidate.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="40" column="3" lean-forward="false" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/lib/form/AddCandidateForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9959">
+          <caret line="433" column="31" lean-forward="false" selection-start-line="433" selection-start-column="20" selection-end-line="433" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/actions/addCandidateAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="95" column="9" lean-forward="false" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmRecruitmentPlugin/modules/recruitment/templates/addCandidateSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="136" column="74" lean-forward="false" selection-start-line="136" selection-start-column="74" selection-end-line="136" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/log/orangehrm.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/apps/orangehrm/config/settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="41" column="85" lean-forward="false" selection-start-line="41" selection-start-column="85" selection-end-line="41" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/lib/form/ModuleForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="71" column="99" lean-forward="false" selection-start-line="71" selection-start-column="99" selection-end-line="71" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/viewModulesSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="77" column="52" lean-forward="false" selection-start-line="77" selection-start-column="52" selection-end-line="77" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/lib/model/doctrine/orangehrmIndicatorsKpiPlugin/base/BaseIndicators.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/lib/model/doctrine/orangehrmIndicatorsKpiPlugin/Indicators.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/lib/model/doctrine/orangehrmIndicatorsKpiPlugin/IndicatorsTable.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/dao/IndicatorDao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="99" column="2" lean-forward="false" selection-start-line="99" selection-start-column="2" selection-end-line="99" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/form/indicatorsForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="125" column="1" lean-forward="false" selection-start-line="125" selection-start-column="1" selection-end-line="125" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/model/doctrine/PluginIndicators.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/model/doctrine/PluginIndicatorsTable.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/lib/service/IndicatorService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="52" column="2" lean-forward="false" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/modules/indicators/actions/indicatorsAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/modules/indicators/actions/checkIndicatorNameExistenceAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/plugins/orangehrmIndicatorsPlugin/modules/indicators/templates/indicatorsSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="146" column="12" lean-forward="false" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

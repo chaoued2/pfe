@@ -1,0 +1,48 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+Remote Address : ::1
+
+Server Info
+
+Host : localhost
+PHP Version : 5.5.12
+Server : Apache/2.4.9 (Win64) PHP/5.5.12
+Admin : admin@example.com
+
+Document Root : C:/wamp/www/
+ROOT_PATH : C:\wamp\www\test\orangehrm-3.3.3
+
+OrangeHRM Installation Log
+
+Thu, 05 Apr 2018 13:04:36 +0200 DB Creation - Starting
+Thu, 05 Apr 2018 13:04:36 +0200 DB Creation - Done
+Thu, 05 Apr 2018 13:04:36 +0200 DB Creation - No Errors
+Thu, 05 Apr 2018 13:04:38 +0200 Fill Data Phase 1 - Starting
+Thu, 05 Apr 2018 13:04:38 +0200 Fill Data Phase 1 - Connected to the DB Server
+Thu, 05 Apr 2018 13:04:38 +0200 Fill Data Phase 1 - Selected the DB
+Thu, 05 Apr 2018 13:04:38 +0200 Fill Data Phase 1 - Reading DB Script
+Thu, 05 Apr 2018 13:04:38 +0200 Fill Data Phase 1 - Opened DB Script
+Thu, 05 Apr 2018 13:04:38 +0200 Fill Data Phase 1 - Read DB script
+Thu, 05 Apr 2018 13:04:38 +0200 Fill Data Phase 1 - There are 284 Statements in the DB script
+Thu, 05 Apr 2018 13:08:01 +0200 Fill Data Phase 1 - Done
+Thu, 05 Apr 2018 13:08:01 +0200 Fill Data Phase 1 - No Errors
+Thu, 05 Apr 2018 13:08:03 +0200 Fill Data Phase 2 - Starting
+Thu, 05 Apr 2018 13:08:03 +0200 Fill Data Phase 2 - Connected to the DB Server
+Thu, 05 Apr 2018 13:08:03 +0200 Fill Data Phase 2 - Selected the DB
+Thu, 05 Apr 2018 13:08:03 +0200 Fill Data Phase 2 - Reading DB Script
+Thu, 05 Apr 2018 13:08:03 +0200 Fill Data Phase 2 - Opened DB Script
+Thu, 05 Apr 2018 13:08:03 +0200 Fill Data Phase 2 - Read DB script
+Thu, 05 Apr 2018 13:08:03 +0200 Fill Data Phase 2 - There are 127 Statements in the DB script
+Thu, 05 Apr 2018 13:08:13 +0200 Fill Data Phase 1 - Connected to the DB Server
+Thu, 05 Apr 2018 13:08:13 +0200 Fill Data Phase 2 - Done
+Thu, 05 Apr 2018 13:08:13 +0200 Fill Data Phase 2 - No Errors
+Thu, 05 Apr 2018 13:08:16 +0200 Create DB user - Starting
+Thu, 05 Apr 2018 13:08:16 +0200 Create DB user - Done
+Thu, 05 Apr 2018 13:08:16 +0200 Create DB user - No Errors
+Thu, 05 Apr 2018 13:08:19 +0200 Create OrangeHRM user - Starting
+Thu, 05 Apr 2018 13:08:20 +0200 Create OrangeHRM user - Done
+Thu, 05 Apr 2018 13:08:20 +0200 Create OrangeHRM user - No Errors
+Thu, 05 Apr 2018 13:08:22 +0200 Write Conf - Starting
+Thu, 05 Apr 2018 13:08:22 +0200 Write Conf - Done
+Thu, 05 Apr 2018 13:08:22 +0200 Write Conf - No Errors
